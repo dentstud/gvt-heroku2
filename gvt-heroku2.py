@@ -171,7 +171,7 @@ mydb_33 = myclient_33 ["lrcbtc"]
 mycol_33 = mydb_33 ["data"] 
 
 myclient_34 = pymongo.MongoClient("mongodb://poya:Muhammad00.@ds145584.mlab.com:45584/zenbtc")
-mydb_34 = myclient_34 ["zentc"]
+mydb_34 = myclient_34 ["zenbtc"]
 mycol_34 = mydb_34 ["data"]     # collection is mongo is same as a Table 
 
 
