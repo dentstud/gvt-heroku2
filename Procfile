@@ -1,1 +1,1 @@
-worker: python gvt-heroku.py
+worker: python gvt-heroku2.py
